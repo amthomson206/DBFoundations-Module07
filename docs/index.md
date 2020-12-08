@@ -2,7 +2,7 @@ Amanda Thomson
 Assgmt07 – Functions
  12/5/2020
 IT FDN 130 A Au 20 | RRoot
-
+https://amthomson206.github.io/DBFoundations-Module07/
 
 There are various types of functions within SQL and understanding the variances is essential when it comes to work within big data.  Functions enable the user to perform calculations, modify data views, and partition data to best suit the need of the data consumer.   User defined functions (UDF’s) are a function that accepts, modifies and returns values based off sets of parameters of the data.  
 
