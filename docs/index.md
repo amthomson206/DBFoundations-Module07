@@ -1,14 +1,14 @@
 
 
-###Amanda Thomson
+### Amanda Thomson
 
-###Assgmt07 – Functions
+### Assgmt07 – Functions
 
-###12/5/2020
+### 12/5/2020
 
-###IT FDN 130 A Au 20 | RRoot
+### IT FDN 130 A Au 20 | RRoot
 
-###https://amthomson206.github.io/DBFoundations-Module07/
+### https://amthomson206.github.io/DBFoundations-Module07/
 
 # **SQL Functions: Scalar, Inline and Multi-Statement**
 
